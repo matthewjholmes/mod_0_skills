@@ -1,0 +1,15 @@
+Class: Terminal
+
+Attributes
+- gateCount (integer)
+- patronOccupancy (integer)
+- restaurantHours (integer)
+- airline (string)
+- hoursOpen (integer)
+- gateOccupancy (integer)
+
+Methods
+- adjustPatronOccupancy (updates the patronOccupancy attribute)
+- planeArrival (updates the gateOccupancy attribute)
+- planeDepart (updates the gateOccupancy attribute)
+- changeRestaurantHours (updates the restaurantHours attribute)
