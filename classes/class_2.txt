@@ -1,0 +1,13 @@
+Class: Security
+
+Attributes
+- laneOpenCount (integer)
+- lineLength (integer)
+- frustration (boolean)
+- tsaEmployeesWorking (integer)
+
+Methods
+- adjustLaneCount (updates the laneOpenCount attribute)
+- adjustLineLength (updates the lineLength attribute)
+- miracle (updates the frustration attribute)
+- changeTsaEmpoloyees (updates the tsaEmployeesWorking attribute)
