@@ -1,0 +1,12 @@
+Class: Security
+
+Attributes
+- laneOpenCount = 8
+- lineLength = 250
+- tsaEmployeesWorking = 50
+
+Methods
+- adjustLaneCount = 7
+- adjustLineLength = 300
+- miracle = false
+- changeTsaEmpoloyees = 100
