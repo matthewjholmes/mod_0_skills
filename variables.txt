@@ -1,0 +1,9 @@
+movie = "Gone in 60 Seconds"
+is_entertaining = true
+movie = "American Beauty"
+num_4 = 60
+num_6 = 80
+num_4 * num_6 = product
+favorite_foods = ["Pizza", "LaCroix", "Sriracha"]
+favorite_foods.drop(1)
+movie.size
