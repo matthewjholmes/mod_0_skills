@@ -1,0 +1,15 @@
+Denver International Airport Terminal A
+
+Attributes
+- gateCount = 20
+- patronOccupancy = 500
+- restaurantHours = 0600
+- airline = "Southwest"
+- hoursOpen (24)
+- gateOccupancy (10)
+
+Methods
+- adjustPatronOccupancy = 100
+- planeArrival = 2
+- planeDepart = -3
+- changeRestaurantHours = 0700
